@@ -47,7 +47,7 @@ Los controles de alto contraste y modo claro que has implementado con el agente 
 
 Trabajar de forma iterativa con un agente en el IDE es una habilidad, y la única forma de desarrollarla es repetir. Algunas ideas para próximas sesiones que puedes realizar desde VS Code:
 
-- Añadir un formulario de interés para patrocinadores en la página de detalles del juego.
+- Añadir un formulario para personas interesadas en apoyar el juego en la página de detalles.
 - Implementar la paginación en la página de la lista de juegos.
 - Añadir validación de entradas y gestión de errores a las funciones auxiliares de acceso a datos en `src/lib/`.
 - Ampliar el alcance del agente de accesibilidad; por ejemplo, auditar el orden del foco del teclado en todo el sitio.
@@ -68,8 +68,8 @@ Aquí termina el itinerario obligatorio de VS Code. Puedes parar aquí con el ta
 
 Si quieres ampliar tu perspectiva sobre las capacidades de los agentes de Copilot, los otros itinerarios cubren escenarios relacionados a través de distintas interfaces:
 
-- 💻 **[Itinerario de CLI](../../cli/)**: realiza flujos similares desde el terminal con Copilot CLI: modo plan, habilidades de agente, agentes personalizados y comandos de barra como `/share`, `/context` y `/delegate`.
-- ☁️ **[Itinerario del agente en la nube](../../cloud/)**: céntrate en asignar incidencias al agente en la nube, supervisar sesiones a través de la página de agentes e iterar de forma asíncrona sobre solicitudes de incorporación de cambios.
+- 💻 **[Itinerario de CLI](../../cli/)**: entrega desde el terminal dos cambios revisados con los modos Plan y Autopilot, habilidades, un agente de QA personalizado, MCP de Playwright, Agent Merge y traspasos con contexto.
+- ☁️ **[Itinerario del agente en la nube](../../cloud/)**: céntrate en asignar incidencias al agente en la nube, supervisar sesiones desde la página de agentes e iterar de forma asíncrona sobre solicitudes de incorporación de cambios.
 
 También puedes seguir ampliando lo que has empezado aquí. [awesome-copilot][awesome-copilot] es una gran fuente de archivos de instrucciones, agentes personalizados y habilidades que puedes adaptar a tus propios proyectos.
 

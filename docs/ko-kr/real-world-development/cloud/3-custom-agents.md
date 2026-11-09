@@ -65,7 +65,7 @@ Codespace로 돌아가 접근성 사용자 지정 에이전트 파일을 검토�
 6. **Description**에 다음을 입력합니다.
 
     ```plaintext
-    사이트에 고대비 모드를 추가해야 합니다. 사용자가 설정할 수 있는 고대비 토글이 있어야 하며, 브라우저의 로컬 스토리지에 설정을 저장해야 합니다.
+    We need a high contrast mode for the site. There should be a toggle for high contrast which the user can set. It should store the setting in local storage on the browser.
     ```
 
 7. **Create**를 선택하여 이슈를 만듭니다.

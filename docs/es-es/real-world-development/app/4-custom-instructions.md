@@ -64,8 +64,9 @@ Aunque los archivos existentes son un buen punto de partida, todavía hay alguna
 > Como los archivos de instrucciones influyen mucho en el código que genera Copilot, debes asegurarte de que lo orienten con claridad. Puedes pedir a Copilot que cree una primera versión y, después, revisarla para comprobar que las actualizaciones cumplen los requisitos. También puedes consultar una [colección de archivos de instrucciones en Awesome Copilot][awesome-copilot] como punto de partida.
 
 1. En el mismo lienzo de archivos, ve a `.github/copilot-instructions.md`.
-2. Busca el encabezado **Code formatting requirements**, aproximadamente a mitad del archivo.
-3. Añade lo siguiente como último punto debajo de ese encabezado:
+2. Cambia a la vista del código fuente editable seleccionando el botón de código (el icono `<>`) en la barra de herramientas del archivo.
+3. Busca el encabezado **Code formatting requirements**, aproximadamente a mitad del archivo.
+4. Añade lo siguiente como último punto debajo de ese encabezado:
 
    ```plaintext
    All new TypeScript should contain TSDocs comments for documentation purposes.

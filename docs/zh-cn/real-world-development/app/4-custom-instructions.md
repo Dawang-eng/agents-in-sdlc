@@ -68,7 +68,7 @@ lastUpdated: 2026-07-09
 3. 在该标题下方添加以下最后一个列表项：
 
    ```plaintext
-   All new TypeScript should contain TSDocs comments for documentation purposes.
+   所有新编写的 TypeScript 代码都应包含用于文档说明的 TSDoc 注释。
    ```
 
 文件会自动保存并可供使用。
@@ -83,7 +83,7 @@ lastUpdated: 2026-07-09
 1. 提示 Copilot 使用指令文件更新代码，使其符合新增要求：
 
    ```plaintext
-   We just updated our instructions and code guidance. Can you please update the code you generated to match that guidance?
+   我们刚刚更新了说明和代码指导。请更新你生成的代码，使其符合这些指导。
    ```
 
 2. 选择右上角的 **Changes**，打开代码更改。

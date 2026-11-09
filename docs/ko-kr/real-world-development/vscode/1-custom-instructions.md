@@ -115,7 +115,7 @@ Tailspin Toys에는 개발 관행에 관한 표준과 요구 사항이 있습니
 4. 다음 프롬프트를 입력합니다.
 
    ```plaintext
-   src/lib/publishers.ts에 이름과 ID를 포함한 모든 퍼블리셔 목록을 반환하는 데이터 접근 도우미를 만들거나 업데이트해 주세요. 파일에 변경 사항을 적용해 주세요.
+   Create or update src/lib/publishers.ts with a data-access helper that returns a list of all publishers with the name and id for each. Apply the file changes.
    ```
 
 5. Copilot이 프로젝트를 살펴보고 도우미 파일과 테스트 등을 업데이트합니다.
@@ -150,7 +150,7 @@ Tailspin Toys에는 개발 관행에 관한 표준과 요구 사항이 있습니
 3. 이전과 **동일한 프롬프트**를 입력합니다.
 
    ```plaintext
-   src/lib/publishers.ts에 이름과 ID를 포함한 모든 퍼블리셔 목록을 반환하는 데이터 접근 도우미를 만들거나 업데이트해 주세요. 파일에 변경 사항을 적용해 주세요.
+   Create or update src/lib/publishers.ts with a data-access helper that returns a list of all publishers with the name and id for each. Apply the file changes.
    ```
 
 4. 제안된 파일 맨 위에 다음과 비슷한 주석 블록이 추가되었는지 확인합니다.

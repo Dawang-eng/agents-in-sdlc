@@ -39,6 +39,8 @@ Antes de abrir la PR de la funcionalidad, pedirás a Copilot que cree un perfil 
 
 ## Examinar el perfil
 
+Antes de utilizar el nuevo agente, revisa su perfil para confirmar que Copilot ha capturado el flujo de trabajo de QA y los límites de autoridad previstos. Así evitarás que un perfil incompleto o demasiado amplio modifique la función cuando solo quieres verificarla.
+
 1. Abre **Changes** y selecciona `.github/agents/qa.agent.md`.
 2. Lee el frontmatter. `description` es obligatorio; `name` es opcional, pero incluirlo proporciona al agente un nombre visible claro.
 3. Lee las instrucciones del perfil y confirma que QA parte de los requisitos, sigue las instrucciones del repositorio, ejecuta la habilidad `quality-checks` y utiliza MCP de Playwright.
